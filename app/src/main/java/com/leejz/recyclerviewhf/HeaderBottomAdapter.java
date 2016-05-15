@@ -10,7 +10,7 @@ import android.widget.TextView;
 /**
  * Created by Lijizhou on 2016/2/24.
  * Blog:http://blog.csdn.net/leejizhou
- * QQ:3107777777
+ *
  */
 public class HeaderBottomAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
